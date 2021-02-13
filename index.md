@@ -1,5 +1,4 @@
 ---
 layout: home
 ---
-
-Make Jelly site have a GitBook look!
+Notes about lab migration
